@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My TODO List TP - Ultimate Gascoigne Project</string>
+    <string name="toolbarMain">TODO List</string>
+    <string name="ajouter_un_item">Ajouter un Item</string>
+    <string name="liste_vide">Liste Vide</string>
+    <string name="title_description_connector">:\ </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
